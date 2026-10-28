@@ -1,5 +1,5 @@
 ## Aleksey
-**Software Engineer · Researcher in Medical AI** · Tokyo, Japan
+**Software Engineer · Researcher in Medical AI**
 
 I build and study software for healthcare: clinical decision support based on lab data,
 document question answering with verifiable sources, and research data infrastructure.
