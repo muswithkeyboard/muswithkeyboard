@@ -24,10 +24,8 @@ Hackathon projects (Justmedit — MedITron 2026, Sechenov University). Research 
 **ML & data:** scikit-learn, pandas, NumPy, ONNX, LLM/RAG, Jupyter
 **Mobile:** React Native, Expo
 
-<!--
 ### Contact
-[Email](mailto:you@example.com) · [ORCID](https://orcid.org/0000-0000-0000-0000) · [Google Scholar](https://scholar.google.com/)
--->
+📧 [muswithsword@gmail.com](mailto:muswithsword@gmail.com)
 
 <details>
 <summary><b>Русская версия</b></summary>
@@ -57,5 +55,8 @@ Hackathon projects (Justmedit — MedITron 2026, Sechenov University). Research 
 **Бэкенд:** FastAPI, Starlette, SQLite, Docker
 **Машинное обучение и данные:** scikit-learn, pandas, NumPy, ONNX, LLM/RAG, Jupyter
 **Мобильная разработка:** React Native, Expo
+
+### Контакты
+📧 [muswithsword@gmail.com](mailto:muswithsword@gmail.com)
 
 </details>
