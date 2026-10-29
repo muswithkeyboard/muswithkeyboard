@@ -25,7 +25,7 @@ Hackathon projects (Justmedit — MedITron 2026, Sechenov University). Research 
 **Mobile:** React Native, Expo
 
 ### Contact
-📧 [muswithsword@gmail.com](mailto:muswithsword@gmail.com)
+📧 [muswithsword@gmail.com](mailto:muswithsword@gmail.com) · 📄 [CV](https://muswithkeyboard.github.io)
 
 <details>
 <summary><b>Русская версия</b></summary>
@@ -57,6 +57,6 @@ Hackathon projects (Justmedit — MedITron 2026, Sechenov University). Research 
 **Мобильная разработка:** React Native, Expo
 
 ### Контакты
-📧 [muswithsword@gmail.com](mailto:muswithsword@gmail.com)
+📧 [muswithsword@gmail.com](mailto:muswithsword@gmail.com) · 📄 [Резюме](https://muswithkeyboard.github.io/?lang=ru)
 
 </details>
