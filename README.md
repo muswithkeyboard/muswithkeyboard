@@ -8,20 +8,23 @@ document question answering with verifiable sources, and research data infrastru
 - Machine learning for laboratory data
 - Clinical decision support systems
 - Document QA and RAG with traceable citations
+- Computer vision for movement and exercise assessment
 
 ### Selected projects
 
 | Project | Description | Stack |
 |---|---|---|
+| **Electronic Trainer** · 🔒 private | Web app for a university PE department: real-time exercise technique assessment from the phone camera; video never leaves the device | TypeScript, React, MediaPipe, Fastify, Prisma, PostgreSQL |
 | [**Justmedit**](https://github.com/muswithkeyboard/justmedit-Meditron) · [demo](https://adv-web.tech) | Screening for anemia and latent iron, B12 and folate deficiencies from blood tests | Python, scikit-learn, Starlette, Docker |
 | [**DMS Assistant**](https://github.com/muswithkeyboard/dms-assistant) | Answers health insurance questions strictly from contract documents, citing the exact clause | Python, RAG, ONNX, SQLite, Docker |
 
-Hackathon projects (Justmedit — MedITron 2026, Sechenov University). Research prototypes, not medical devices.
+Justmedit and DMS Assistant are hackathon projects (Justmedit — MedITron 2026, Sechenov University). Research prototypes, not medical devices.
 
 ### Tech stack
 **Languages:** Python, TypeScript, Go, SQL
-**Backend:** FastAPI, Starlette, SQLite, Docker
-**ML & data:** scikit-learn, pandas, NumPy, ONNX, LLM/RAG, Jupyter
+**Backend:** FastAPI, Starlette, Fastify, Prisma, PostgreSQL, SQLite, Docker
+**Frontend:** React, Vite, PWA
+**ML & data:** scikit-learn, pandas, NumPy, ONNX, MediaPipe, LLM/RAG, Jupyter
 **Mobile:** React Native, Expo
 
 ### Contact
@@ -40,20 +43,23 @@ Hackathon projects (Justmedit — MedITron 2026, Sechenov University). Research 
 - Машинное обучение для анализа лабораторных показателей
 - Системы поддержки принятия врачебных решений
 - Ответы по документам и RAG с проверяемыми ссылками на источник
+- Компьютерное зрение для оценки движений и упражнений
 
 ### Избранные проекты
 
 | Проект | Описание | Технологии |
 |---|---|---|
+| **Электронный тренер** · 🔒 закрытый код | Веб-приложение для кафедры физкультуры: оценка техники упражнений по камере телефона в реальном времени; видео не покидает устройство | TypeScript, React, MediaPipe, Fastify, Prisma, PostgreSQL |
 | [**Justmedit**](https://github.com/muswithkeyboard/justmedit-Meditron) · [демо](https://adv-web.tech) | Скрининг анемий и скрытых дефицитов железа, B12 и фолатов по анализу крови | Python, scikit-learn, Starlette, Docker |
 | [**Ассистент ДМС**](https://github.com/muswithkeyboard/dms-assistant) | Ответы по документам договора ДМС со ссылкой на конкретный пункт | Python, RAG, ONNX, SQLite, Docker |
 
-Проекты хакатонов (Justmedit — MedITron 2026, Сеченовский университет). Исследовательские прототипы, не медицинские изделия.
+Justmedit и Ассистент ДМС — проекты хакатонов (Justmedit — MedITron 2026, Сеченовский университет). Исследовательские прототипы, не медицинские изделия.
 
 ### Технологии
 **Языки:** Python, TypeScript, Go, SQL
-**Бэкенд:** FastAPI, Starlette, SQLite, Docker
-**Машинное обучение и данные:** scikit-learn, pandas, NumPy, ONNX, LLM/RAG, Jupyter
+**Бэкенд:** FastAPI, Starlette, Fastify, Prisma, PostgreSQL, SQLite, Docker
+**Фронтенд:** React, Vite, PWA
+**Машинное обучение и данные:** scikit-learn, pandas, NumPy, ONNX, MediaPipe, LLM/RAG, Jupyter
 **Мобильная разработка:** React Native, Expo
 
 ### Контакты
