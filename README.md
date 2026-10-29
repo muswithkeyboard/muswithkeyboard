@@ -18,7 +18,7 @@ document question answering with verifiable sources, and research data infrastru
 | **MeetBot** · [Telegram](https://t.me/SMmanagementbot) | Telegram bot + Mini App: everyone marks free time, the bot finds slots when most people can meet and sends reminders | Python, aiogram, Mini App, SQLite |
 | **Fencing school websites** | Main site of a historical fencing school (schedule, online sign-up) and its smallsword club sub-site with an online journal | HTML, CSS, JavaScript, nginx |
 | [**Justmedit**](https://github.com/muswithkeyboard/justmedit-Meditron) · [demo](https://adv-web.tech) | Screening for anemia and latent iron, B12 and folate deficiencies from blood tests | Python, scikit-learn, Starlette, Docker |
-| [**DMS Assistant**](https://github.com/muswithkeyboard/dms-assistant) | Answers health insurance questions strictly from contract documents, citing the exact clause | Python, RAG, ONNX, SQLite, Docker |
+| [**DMS Assistant**](https://github.com/muswithkeyboard/dms-assistant) · [demo](https://justmedit.ru) | Answers health insurance questions strictly from contract documents, citing the exact clause | Python, RAG, ONNX, SQLite, Docker |
 
 Justmedit and DMS Assistant are hackathon projects (Justmedit — MedITron 2026, Sechenov University). Research prototypes, not medical devices.
 
