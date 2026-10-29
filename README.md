@@ -15,6 +15,7 @@ document question answering with verifiable sources, and research data infrastru
 | Project | Description | Stack |
 |---|---|---|
 | **Electronic Trainer** · 🔒 private | Web app for a university PE department: real-time exercise technique assessment from the phone camera; video never leaves the device | TypeScript, React, MediaPipe, Fastify, Prisma, PostgreSQL |
+| **MeetBot** · [Telegram](https://t.me/SMmanagementbot) | Telegram bot + Mini App: everyone marks free time, the bot finds slots when most people can meet and sends reminders | Python, aiogram, Mini App, SQLite |
 | [**Justmedit**](https://github.com/muswithkeyboard/justmedit-Meditron) · [demo](https://adv-web.tech) | Screening for anemia and latent iron, B12 and folate deficiencies from blood tests | Python, scikit-learn, Starlette, Docker |
 | [**DMS Assistant**](https://github.com/muswithkeyboard/dms-assistant) | Answers health insurance questions strictly from contract documents, citing the exact clause | Python, RAG, ONNX, SQLite, Docker |
 
@@ -50,6 +51,7 @@ Justmedit and DMS Assistant are hackathon projects (Justmedit — MedITron 2026,
 | Проект | Описание | Технологии |
 |---|---|---|
 | **Электронный тренер** · 🔒 закрытый код | Веб-приложение для кафедры физкультуры: оценка техники упражнений по камере телефона в реальном времени; видео не покидает устройство | TypeScript, React, MediaPipe, Fastify, Prisma, PostgreSQL |
+| **MeetBot** · [Telegram](https://t.me/SMmanagementbot) | Telegram-бот + Mini App: каждый отмечает свободное время, бот находит окна, когда может больше всего людей, и напоминает о встрече | Python, aiogram, Mini App, SQLite |
 | [**Justmedit**](https://github.com/muswithkeyboard/justmedit-Meditron) · [демо](https://adv-web.tech) | Скрининг анемий и скрытых дефицитов железа, B12 и фолатов по анализу крови | Python, scikit-learn, Starlette, Docker |
 | [**Ассистент ДМС**](https://github.com/muswithkeyboard/dms-assistant) | Ответы по документам договора ДМС со ссылкой на конкретный пункт | Python, RAG, ONNX, SQLite, Docker |
 
