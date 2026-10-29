@@ -17,10 +17,10 @@ document question answering with verifiable sources, and research data infrastru
 | **Electronic Trainer** · private | Web app for a university PE department: real-time exercise technique assessment from the phone camera; video never leaves the device | TypeScript, React, MediaPipe, Fastify, Prisma, PostgreSQL |
 | **MeetBot** · [Telegram](https://t.me/SMmanagementbot) | Telegram bot + Mini App: everyone marks free time, the bot finds slots when most people can meet and sends reminders | Python, aiogram, Mini App, SQLite |
 | **Fencing school websites** | Main site of a historical fencing school (schedule, online sign-up) and its smallsword club sub-site with an online journal | HTML, CSS, JavaScript, nginx |
-| [**Justmedit**](https://github.com/muswithkeyboard/justmedit-Meditron) · [demo](https://adv-web.tech) | Screening for anemia and latent iron, B12 and folate deficiencies from blood tests | Python, scikit-learn, Starlette, Docker |
-| [**DMS Assistant**](https://github.com/muswithkeyboard/dms-assistant) · [demo](https://justmedit.ru) | Answers health insurance questions strictly from contract documents, citing the exact clause | Python, RAG, ONNX, SQLite, Docker |
+| [**Justmedit**](https://github.com/muswithkeyboard/justmedit-Meditron) · [demo](https://meditron.adv-web.tech) | Screening for anemia and latent iron, B12 and folate deficiencies from blood tests | Python, scikit-learn, Starlette, Docker |
+| [**DMS Assistant**](https://github.com/muswithkeyboard/dms-assistant) · [demo](https://sechenov.adv-web.tech) | Answers health insurance questions strictly from contract documents, citing the exact clause | Python, RAG, ONNX, SQLite, Docker |
 
-Justmedit and DMS Assistant are hackathon projects (Justmedit — MedITron 2026, Sechenov University). Research prototypes, not medical devices.
+Justmedit and DMS Assistant are hackathon projects (MedITron 2026 and Sechenov Engineering Hackathon 2026). Both demos: [adv-web.tech](https://adv-web.tech). Research prototypes, not medical devices.
 
 ### Tech stack
 **Languages:** Python, TypeScript, Go, SQL
@@ -54,10 +54,10 @@ Justmedit and DMS Assistant are hackathon projects (Justmedit — MedITron 2026,
 | **Электронный тренер** · закрытый код | Веб-приложение для кафедры физкультуры: оценка техники упражнений по камере телефона в реальном времени; видео не покидает устройство | TypeScript, React, MediaPipe, Fastify, Prisma, PostgreSQL |
 | **MeetBot** · [Telegram](https://t.me/SMmanagementbot) | Telegram-бот + Mini App: каждый отмечает свободное время, бот находит окна, когда может больше всего людей, и напоминает о встрече | Python, aiogram, Mini App, SQLite |
 | **Сайты школы фехтования** | Основной сайт школы исторического фехтования (расписание, онлайн-запись) и подсайт клуба лёгкой шпаги с онлайн-журналом | HTML, CSS, JavaScript, nginx |
-| [**Justmedit**](https://github.com/muswithkeyboard/justmedit-Meditron) · [демо](https://adv-web.tech) | Скрининг анемий и скрытых дефицитов железа, B12 и фолатов по анализу крови | Python, scikit-learn, Starlette, Docker |
-| [**Ассистент ДМС**](https://github.com/muswithkeyboard/dms-assistant) | Ответы по документам договора ДМС со ссылкой на конкретный пункт | Python, RAG, ONNX, SQLite, Docker |
+| [**Justmedit**](https://github.com/muswithkeyboard/justmedit-Meditron) · [демо](https://meditron.adv-web.tech) | Скрининг анемий и скрытых дефицитов железа, B12 и фолатов по анализу крови | Python, scikit-learn, Starlette, Docker |
+| [**Ассистент ДМС**](https://github.com/muswithkeyboard/dms-assistant) · [демо](https://sechenov.adv-web.tech) | Ответы по документам договора ДМС со ссылкой на конкретный пункт | Python, RAG, ONNX, SQLite, Docker |
 
-Justmedit и Ассистент ДМС — проекты хакатонов (Justmedit — MedITron 2026, Сеченовский университет). Исследовательские прототипы, не медицинские изделия.
+Justmedit и Ассистент ДМС — проекты хакатонов (MedITron 2026 и Сеченовский инженерный хакатон 2026). Оба демо: [adv-web.tech](https://adv-web.tech). Исследовательские прототипы, не медицинские изделия.
 
 ### Технологии
 **Языки:** Python, TypeScript, Go, SQL
